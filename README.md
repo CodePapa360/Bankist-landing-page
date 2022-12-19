@@ -1,7 +1,7 @@
 # Bankinst landing page
 Bankist landing page I just made after learning some advance JavaScript DOM manipulations from Jonas Schmedtmann's course. By the way, It is not fully responsive because I just wanted to focous JavaScript mostly.
 
-- [👉Live Preview👈](https://bankist-landing-page-codepapa360.netlify.app/){:target="_blank" rel="noopener"}
+- [👉Live Preview👈](https://bankist-landing-page-codepapa360.netlify.app/)
 
 ### Built with
 
